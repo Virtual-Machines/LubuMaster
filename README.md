@@ -8,7 +8,7 @@ Create and test your remaster easily using the included tool called [Pinguy Buil
 
 
 
-Generating live environment on virtual machine (using OVA):
+Generating live environment on virtual machine (using the OVA):
 
 ![LubuMasterBuild](https://raw.githubusercontent.com/Virtual-Machines/LubuMaster/master/LubuMasterBuild.png)
 
