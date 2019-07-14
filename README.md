@@ -1,14 +1,14 @@
 # LubuMaster DOWNLOAD: [OVA](https://github.com/Virtual-Machines/LubuMaster/releases/download/latest/LubuMaster.ova) - [ISO](https://github.com/Virtual-Machines/LubuMaster/releases/download/latest/LubuMaster.iso)
 Last update: 2019-07-14
 
-LubuMaster is "an experimental Lubuntu 18.04.2 based distro that builds custom distributions"
+LubuMaster is "an **experimental** Lubuntu 18.04.2 based distro that builds custom distributions"
 
 Generating live environment on virtual machine (using the OVA):
 
 ![LubuMasterBuild](https://raw.githubusercontent.com/Virtual-Machines/LubuMaster/master/LubuMasterBuild.png)
 
 
-Test the experimental liveCD (included as ISO):
+Test the **experimental** liveCD (included as ISO):
 
 ![LubuMasterLive](https://raw.githubusercontent.com/Virtual-Machines/LubuMaster/master/LubuMasterLive.png)
 
