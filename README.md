@@ -16,3 +16,16 @@ Generating live environment on virtual machine (using the OVA):
 Test the liveCD (included as ISO):
 
 ![LubuMasterLive](https://raw.githubusercontent.com/Virtual-Machines/LubuMaster/master/LubuMasterLive.png)
+
+- Minimal Lubuntu Bionic 18.04.2 (lubuntu-core package)
+- Linux Kernel 4.18 HWE (Hardware Enablement)
+- VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
+- Pinguy Builder
+- Synaptic package manager
+- Basic python http server included. Example: python3 -m http.server 8080
+- Command-line download manager: wget
+- NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
+- It can be used as a base of development environments, to test software...
+- OVA and ISO files less than 500 MB
+- User and pass of system is the same: lubuntu
+- Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
