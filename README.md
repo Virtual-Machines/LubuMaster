@@ -1,5 +1,5 @@
 # LubuMaster DOWNLOAD: [OVA](https://github.com/Virtual-Machines/LubuMaster/releases/download/latest/LubuMaster.ova) - [ISO](https://github.com/Virtual-Machines/LubuMaster/releases/download/latest/LubuMaster.iso)
-Last update: 2019-07-28
+[**Your OPINION is important**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link) - Last update: 2019-07-28
 
 LubuMaster is "an **experimental** Lubuntu 18.04.2 based distro that builds custom distributions"
 
