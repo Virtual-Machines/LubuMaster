@@ -8,7 +8,7 @@ Generating live environment on virtual machine (using the OVA):
 ![LubuMasterBuild](https://raw.githubusercontent.com/Virtual-Machines/LubuMaster/master/LubuMasterBuild.png)
 
 
-Test the **experimental** liveCD (included as ISO, **pending to update**):
+Test the **experimental** liveCD (included as ISO):
 
 ![LubuMasterLive](https://raw.githubusercontent.com/Virtual-Machines/LubuMaster/master/LubuMasterLive.png)
 
