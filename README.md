@@ -1,19 +1,19 @@
 # LubuMaster DOWNLOAD: [OVA](https://github.com/Virtual-Machines/LubuMaster/releases/download/latest/LubuMaster.ova) - [ISO](https://github.com/Virtual-Machines/LubuMaster/releases/download/latest/LubuMaster.iso)
-[**Your OPINION is important**](https://github.com/Virtual-Machines/LubuMaster/issues/1) - Last update: 2019-07-28
+[**Your OPINION is important**](https://github.com/Virtual-Machines/LubuMaster/issues/1) - Last update: 2020-01-04
 
-LubuMaster is "an **experimental** Lubuntu 18.04.2 based distro that builds custom distributions"
+LubuMaster is "an **experimental** Lubuntu 18.04.3 based distro that builds custom distributions"
 
 Generating live environment on virtual machine (using the OVA):
 
 ![LubuMasterBuild](https://raw.githubusercontent.com/Virtual-Machines/LubuMaster/master/LubuMasterBuild.png)
 
 
-Test the **experimental** liveCD (included as ISO):
+Test the **experimental** liveCD (included as ISO, **pending to update**):
 
 ![LubuMasterLive](https://raw.githubusercontent.com/Virtual-Machines/LubuMaster/master/LubuMasterLive.png)
 
-- Minimal Lubuntu Bionic 18.04.2 (lubuntu-core package)
-- Linux Kernel 4.18 HWE (Hardware Enablement)
+- Minimal Lubuntu Bionic 18.04.3 (lubuntu-core package)
+- Linux Kernel 5 HWE (Hardware Enablement)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - [Pinguy Builder](https://pinguyos.com/2015/09/pinguy-builder-an-app-to-backupremix-buntu/)
 - Synaptic package manager
