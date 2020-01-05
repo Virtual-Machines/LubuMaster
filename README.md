@@ -1,7 +1,7 @@
 # LubuMaster DOWNLOAD: [OVA](https://github.com/Virtual-Machines/LubuMaster/releases/download/latest/LubuMaster.ova) - [ISO](https://github.com/Virtual-Machines/LubuMaster/releases/download/latest/LubuMaster.iso)
 [**Your OPINION is important**](https://github.com/Virtual-Machines/LubuMaster/issues/1) - Last update: 2020-01-04
 
-LubuMaster is a distribution that builds a custom Lubuntu 18.04.3
+LubuMaster is a distribution that builds a custom Lubuntu 18.04.3 Minimal
 
 Generating live environment on virtual machine (using the OVA):
 
